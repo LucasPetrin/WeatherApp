@@ -11,6 +11,9 @@ import UIKit
 
 class CustomElements{
     //Comentario para gitHub
+    
+    
+    
     func setShadows(elementsArray: [UIView]){
         
         for elemento in elementsArray {
